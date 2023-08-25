@@ -1,0 +1,31 @@
+* {
+        box-sizing: border-box;
+        margin: 0 auto;
+        max-width: 1640px;
+    }
+
+
+h1, h2, p {
+    font-family: 'Inter', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+    margin: 25px;
+    font-size: 16px;
+    padding: 20px;
+}
+
+button {
+    border-radius: 10px;
+    background-color: #12082E;
+    color: white;
+    font-size: 25px;
+    width: 200px;
+    height: 64px;
+    border-color: none;
+    border-style: none;
+}
+
+

@@ -1,0 +1,44 @@
+/* main */
+
+main {
+    background-image: url("/images/pexels-ketut-subiyanto-4560079.jpg");
+    width: 100%;
+    height: 755px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 44px;
+}
+
+nav {
+    margin: 30px;
+}
+
+/* Sections*/
+
+.promo1 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 40px;
+    width: 100%;
+}
+
+.steps-section {
+    display: inline-flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+}
+
+.promo-box {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
